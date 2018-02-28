@@ -1,2 +1,3 @@
 # hello-world
-hello world for github repository
+hello world for repository
+dangdang happy everyday~
